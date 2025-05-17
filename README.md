@@ -18,7 +18,7 @@ Welcome to my personal portfolio as a Data Analyst! This website showcases my pr
 - Netlify (for deployment)
 
 ## 🌐 Live Demo
-🚀 [Visit Portfolio Website](https://your-netlify-site.netlify.app)  
+🚀 [Visit Portfolio Website](https://portfoliobyprembora.netlify.app/)  
 _Replace with your actual Netlify link._
 
 ## 🧭 How to Run Locally
